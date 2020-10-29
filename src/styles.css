@@ -12,7 +12,7 @@
     justify-content: center;
 }
 
-span {
+.span {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -267,7 +267,7 @@ body {
         flex-direction: column;
     }
     
-    span {
+    .span {
         line-height: 2vh;
         
     }
